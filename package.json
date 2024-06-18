@@ -1,0 +1,21 @@
+{
+  "name": "fetch-data-from-api",
+  "version": "1.0.0",
+  "description": "patika-dev react kursu ödev 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "fetch",
+    "JSONPlaceholder",
+    "react",
+    "patika-dev"
+  ],
+  "author": "Enes Cangül",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
